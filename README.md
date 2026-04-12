@@ -11,8 +11,10 @@
 - Git & GitHub
 
 ## 📌 Projects
-- 1M1B Internship Project (add your link here)
+- 1M1B Internship Project (https://github.com/Harini-2811/water-demand-forecasting.git)
 
 ## 📫 Contact
-- LinkedIn: add your link here
-- 
+- LinkedIn: www.linkedin.com/in/harini-vettrivel
+- Email ID: harinivettri2811@gmail.com
+  
+
