@@ -1,6 +1,6 @@
 # Hi, I'm Harini 👋
 
-🎓 1st Year Computer Science Student  
+🎓 Computer Science Student  
 💻 Crafting Full Stack Applications  
 🌱 1M1B Intern  
 🚀 Learning Java & Data Structures  
@@ -12,6 +12,9 @@
 
 ## 📌 Projects
 - 1M1B Internship Project (https://github.com/Harini-2811/water-demand-forecasting.git)
+
+## 💻 Coding Profiles
+Leetcode: https://leetcode.com/u/Harini_Vettrivel/
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/harini-vettrivel
