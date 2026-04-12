@@ -1,7 +1,7 @@
 # Hi, I'm Harini 👋
 
 🎓 Computer Science Student  
-💻 Crafting Full Stack Applications  
+💻 Exploring Machine Learning and Full Stack Applications 
 🌱 1M1B Intern  
 🚀 Learning Java & Data Structures  
 
