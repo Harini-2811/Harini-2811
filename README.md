@@ -6,8 +6,8 @@
 🚀 Learning Java & Data Structures  
 
 ## 🔧 Skills
-- Java
-- HTML, CSS, Javascript
+- Java, Python, C++, C
+- HTML, CSS, Javascript, Nodejs
 - Git & GitHub
 
 ## 📌 Projects
